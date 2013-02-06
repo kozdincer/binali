@@ -30,4 +30,9 @@ QUOTES = (
     "Film indirmek isteyen varsa onlar da kullansın. Onun için 3 GB'yi "
     "5 GB'ye çıkardık, fiyatını 49 YTL'ye indirdik. Her şey düzeldi. "
     "Yani bakan söz verdiyse yapar. Bu bakan öyle bir bakan.",
+
+	"Boğaziçi Üniversitesi'ni ziyaret ettim. Bir baktım farklı bir dünya."
+	"Değişik binalar, surlarla çevrilmiş alan. Sonra bahçesinde gençler kızlı, erkekli oturuyor."
+	"Ben çok şaşırdım. Burada yoldan çıkarım dedim",
+
 )
