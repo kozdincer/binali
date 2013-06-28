@@ -34,5 +34,8 @@ QUOTES = (
     "Boğaziçi Üniversitesi'ni ziyaret ettim. Bir baktım farklı bir dünya."
     "Değişik binalar, surlarla çevrilmiş alan. Sonra bahçesinde gençler kızlı, erkekli oturuyor."
     "Ben çok şaşırdım. Burada yoldan çıkarım dedim",
+    
+    "(Twitter için) Bize afra, tafra yapmasınlar. Türkiye Cumhuriyeti'ni tanımayanı,"
+    "Türkiye Cumhuriyeti de tanımaz. 76 milyon da onlara Osmanlı tokadını çakar.",
 
 )
