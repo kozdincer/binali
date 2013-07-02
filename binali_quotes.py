@@ -2,9 +2,9 @@
 # -*- coding: UTF-8 -*-
 
 QUOTES = (
-    "Bulut diye birşey çıkarmışlar, herkes içine birşey atıyor.",
+    "Bulut diye birşey çıkarmışlar, herkes içine bir şey atıyor.",
 
-    "Bu bilişim fazla kafa yorursan sıyırırsın... kullanacaksın, "
+    "Bu bilişim fazla kafa yorarsan sıyırırsın... kullanacaksın, "
     "nimetlerinden kullanıp, yararlanıp işini göreceksin, kafayı taktın mı "
     "hıhı. o zaman işin kötü. çok fazla, hikmetine fazla şey yapmamak lazım.",
 
@@ -19,7 +19,7 @@ QUOTES = (
     "(PTT Genel Müdürü'ne) Bırak bunu yemezler, hayır işini vakıflar yapar, "
     "[siz] ticarethanesiniz.",
 
-    "(Pegasus Havayollarının uygulamalarını yorumlarken) Oturduk para, "
+    "(Pegasus Havayolları'nın uygulamalarını yorumlarken) Oturduk para, "
     "kalktık para, su içtik para, bedava hiçbir hizmet yok. "
     "Bundan şaşmayın bu doğru.",
 
