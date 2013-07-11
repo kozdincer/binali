@@ -38,6 +38,6 @@ QUOTES = (
     "(Twitter için) Bize afra, tafra yapmasınlar. Türkiye Cumhuriyeti'ni tanımayanı,"
     "Türkiye Cumhuriyeti de tanımaz. 76 milyon da onlara Osmanlı tokadını çakar.",
     
-    "Sanal dünya yalan dünya değil",
+    "Sanal dünya yalan dünyası değildir.",
 
 )
