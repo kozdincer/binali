@@ -34,10 +34,15 @@ QUOTES = (
     "Boğaziçi Üniversitesi'ni ziyaret ettim. Bir baktım farklı bir dünya."
     "Değişik binalar, surlarla çevrilmiş alan. Sonra bahçesinde gençler kızlı, erkekli oturuyor."
     "Ben çok şaşırdım. Burada yoldan çıkarım dedim",
-    
+
     "(Twitter için) Bize afra, tafra yapmasınlar. Türkiye Cumhuriyeti'ni tanımayanı,"
     "Türkiye Cumhuriyeti de tanımaz. 76 milyon da onlara Osmanlı tokadını çakar.",
-    
+
     "Sanal dünya yalan dünyası değildir.",
+
+    "Uzaya güneş enerjisinden elektrik üreten güneş panelleri yerleştirip buradan üretilecek"
+    " elektrik enerjisini radyo frekans dalgalarıyla yeryüzüne ulaştıracak bir projeyi de"
+    " gerçekleştirmeyi hedefliyoruz. Bu da bir vizyon projesi olarak bu şurada kararlaştırılan"
+    " bir çalışmadır.",
 
 )
