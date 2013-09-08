@@ -47,4 +47,10 @@ QUOTES = (
     "Bu da bir vizyon projesi olarak bu şurada kararlaştırılan bir "
     "çalışmadır.",
 
+    "Çanakkale geçilmez, sözünün bizler için ne anlama geldiğiniz "
+    "biliyorsunuz. O günlerde geçilemeyen Çanakkale, şimdi 4 bin metrelik "
+    "asma köprüsüyle 4 dakikada geçilir hale gelecek. Bu projeyle de "
+    "ülkemizin ulaşım ve iletişim altyapısı daha da farklı bir düzeye "
+    "ulaştırılmış olacak",
+
 )
