@@ -53,4 +53,15 @@ QUOTES = (
     "ülkemizin ulaşım ve iletişim altyapısı daha da farklı bir düzeye "
     "ulaştırılmış olacak",
 
+    "Marmaray varken arabanın anlamı yok. Hâlâ arabayla gitmeye ısrar "
+    "ederseniz o zaman şikayet etmeye hakkınız yok.",
+
+    "Üsküdar’ı atı alan değil Marmaray bileti alan geçecek. (espriymiş)",
+
+    "Marmaray denizin altında 62 metre derinliğinde. Yolculuk 3 dakika "
+    "sürecek. İki lafın belini kıramadan geçeceksiniz. Güvenliği "
+    "açısından hiçbir sıkıntı yok. Depreme karşı evinizden daha güvenli. "
+    "İstanbul’da hangi evde oturursanız oturun depreme karşı o evden "
+    "daha güvenli.",
+
 )
