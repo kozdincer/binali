@@ -64,4 +64,7 @@ QUOTES = (
     "İstanbul’da hangi evde oturursanız oturun depreme karşı o evden "
     "daha güvenli.",
 
+    "Asma köprü olur da sallanmaz mı? Ne yapacaktı yani, köprünün işi "
+    "sallanmak",
+
 )
