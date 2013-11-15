@@ -70,4 +70,6 @@ QUOTES = (
     "Marmaray açıldı halkımızın yüzde 80'i memnun. Açıldıktan sonra "
     "arıza oldu, yüzde 20'si memnun. Sonuçta yüzde 100'ü memnun.",
 
+    "Bildiğiniz gibi bilgisayarlar Binali sistemiyle çalışır.",
+
 )
