@@ -67,4 +67,7 @@ QUOTES = (
     "Asma köprü olur da sallanmaz mı? Ne yapacaktı yani, köprünün işi "
     "sallanmak",
 
+    "Marmaray açıldı halkımızın yüzde 80'i memnun. Açıldıktan sonra "
+    "arıza oldu, yüzde 20'si memnun. Sonuçta yüzde 100'ü memnun.",
+
 )
