@@ -71,5 +71,7 @@ QUOTES = (
     "arıza oldu, yüzde 20'si memnun. Sonuçta yüzde 100'ü memnun.",
 
     "Bildiğiniz gibi bilgisayarlar Binali sistemiyle çalışır.",
+    
+    "Yolların kralı olmaz, yolların kuralı olur."
 
 )
