@@ -72,6 +72,8 @@ QUOTES = (
 
     "Bildiğiniz gibi bilgisayarlar Binali sistemiyle çalışır.",
     
-    "Yolların kralı olmaz, yolların kuralı olur."
+    "Yolların kralı olmaz, yolların kuralı olur.",
+    
+    "Biliyorsunuz bilgisayarlar ikili sistemde çalışıyor, buna bina(r/ly) sistem deniyor.",
 
 )
