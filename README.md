@@ -3,6 +3,8 @@ binali
 
 /bin/ali is a script which echo well-known quotes from binali.
 
+![binaliworks](https://raw.github.com/kozdincer/binali/master/images/binaliworks.jpg)
+
 Maintainers
 -----------
 * Kaan Özdinçer :: https://github.com/kozdincer
