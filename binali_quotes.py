@@ -10,9 +10,6 @@ QUOTES = (
 
     "binali in da sky with diamonds: https://vimeo.com/31575968",
 
-    "Sonra bahçesinde gençler kızlı, erkekli oturuyor. Ben çok şaşırdım. "
-    "Burada yoldan çıkarım dedim. Benim okumam lazımdı.",
-
     "5 dakika 30 kuruş devam etsin. Ama bir de 2 dakika 10 kuruş, "
     "olursa bu iş tadından yenmez. Benimki sadece fikir.",
 
@@ -33,7 +30,8 @@ QUOTES = (
 
     "Boğaziçi Üniversitesi'ni ziyaret ettim. Bir baktım farklı bir dünya. "
     "Değişik binalar, surlarla çevrilmiş alan. Sonra bahçesinde gençler "
-    "kızlı, erkekli oturuyor. Ben çok şaşırdım. Burada yoldan çıkarım dedim",
+    "kızlı, erkekli oturuyor. Ben çok şaşırdım. Burada yoldan çıkarım dedim."
+    "(27 Ocak 2013)",
 
     "(Twitter için) Bize afra, tafra yapmasınlar. Türkiye Cumhuriyeti'ni "
     "tanımayanı, Türkiye Cumhuriyeti de tanımaz. 76 milyon da onlara "
@@ -47,7 +45,7 @@ QUOTES = (
     "Bu da bir vizyon projesi olarak bu şurada kararlaştırılan bir "
     "çalışmadır.",
 
-    "Çanakkale geçilmez, sözünün bizler için ne anlama geldiğiniz "
+    "Çanakkale geçilmez, sözünün bizler için ne anlama geldiğini "
     "biliyorsunuz. O günlerde geçilemeyen Çanakkale, şimdi 4 bin metrelik "
     "asma köprüsüyle 4 dakikada geçilir hale gelecek. Bu projeyle de "
     "ülkemizin ulaşım ve iletişim altyapısı daha da farklı bir düzeye "
@@ -71,9 +69,28 @@ QUOTES = (
     "arıza oldu, yüzde 20'si memnun. Sonuçta yüzde 100'ü memnun.",
 
     "Bildiğiniz gibi bilgisayarlar Binali sistemiyle çalışır.",
-    
+
     "Yolların kralı olmaz, yolların kuralı olur.",
-    
-    "Biliyorsunuz bilgisayarlar ikili sistemde çalışıyor, buna bina(r/ly) sistem deniyor.",
+
+    "Biliyorsunuz bilgisayarlar ikili sistemde çalışıyor, "
+    "buna bina(r/ly) sistem deniyor.",
+
+    "Ben çok rahatım canım, bir şey yok. Kazanın hızlandırılmış "
+    "tren uygulamasıyla hiçbir alakası yok. Kazanın dar yarıçaplı "
+    "kurpta aşırı hızdan olduğu açık ve nettir. Niye adam 80'le gitmesi "
+    "lazım gelirken 130'la gittin arkadaş diye sormuyorsunuz? O "
+    "direksiyonu ben kullanmıyorum ki kardeşim... (15 Eylül 2004) "
+    "Binali Yıldırım, Ulaştırma Bakanı, 38 kişinin öldüğü hızlandırılmış "
+    "tren kazasından sonra bizlere bir kez daha yetki sahibi olduğunu "
+    "fakat sorumluluk sahibi olmadığını hatırlatırken.",
+
+    "Yasadışı dinlemeyi önlemenin tek yolu konuşmamak, "
+    "konuştuğunuz sürece mutlaka dinleniyorsunuz. (3 Haziran 2008)",
+
+    "Yolları bölüyoruz, hayatları birleştiriyoruz. Ülkeyi birbirine "
+    "kaynaştırıyoruz. Burada üstad Aşık Veysel'e gönderme yapıldı, "
+    "'Uzun ince bir yoldayım, gidiyorum gündüz gece' diye. "
+    "Herhalde Aşık Veysel sağ olsaydı bu dizeyi, 'Uzun duble bir yoldayım,"
+    " gidiyorum gündüz gece' diye söylerdi. (14 Haziran 2012)",
 
 )
