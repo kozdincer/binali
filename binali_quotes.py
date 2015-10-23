@@ -93,6 +93,8 @@ QUOTES = (
     "Herhalde Aşık Veysel sağ olsaydı bu dizeyi, 'Uzun duble bir yoldayım,"
     " gidiyorum gündüz gece' diye söylerdi. (14 Haziran 2012)",
     
-    "(İzmir mitinginde) İzmir'e hoş geldiniz. (16 Mart 2014)"
+    "(İzmir mitinginde) İzmir'e hoş geldiniz. (16 Mart 2014)",
+    
+    "Milletimizin hafif bir ittirmesiyle iktidar olacağız inşallah"
 
 )
