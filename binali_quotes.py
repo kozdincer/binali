@@ -95,6 +95,9 @@ QUOTES = (
 
     "(İzmir mitinginde) İzmir'e hoş geldiniz. (16 Mart 2014)",
 
-    "Milletimizin hafif bir ittirmesiyle iktidar olacağız inşallah"
+    "Milletimizin hafif bir ittirmesiyle iktidar olacağız inşallah",
+
+    "Vurur yüze ifadesi, kullanıyorum sosyal medyayı bitanesi, eh eh eh eh. "
+    "Videosu: https://www.youtube.com/watch?v=YXvxm0y3SME",
 
 )
