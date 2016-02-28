@@ -100,4 +100,13 @@ QUOTES = (
     "Vurur yüze ifadesi, kullanıyorum sosyal medyayı bitanesi, eh eh eh eh. "
     "Videosu: https://www.youtube.com/watch?v=YXvxm0y3SME",
 
+    "İnternet, çaya çorbaya limon gibi. Çok faydalı bir şey"
+    "ama ayarını kaçırdığınız zaman ilaca benziyor, tedavi edecekken zehirliyor."
+    "Gerçek hayatta ne suçsa, sanal dünyada da aynı şeyler suçtur."
+    "Özellikle pornografi, fuhuş, çocukların zararlı içerikten korunması adına"
+    "Twitter'a bildirilen 592 sakıncalı içerikten 413'ü,"
+    "Facebook'a bildirilen 417 içerikten 113'ü,"
+    "Youtube'a bildirilen 297 içerikten 115'i çıkarılmadı."
+    "Performans olarak en iyisi Facebook. (27 Şubat 2016)",
+
 )
