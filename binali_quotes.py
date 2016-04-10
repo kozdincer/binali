@@ -108,7 +108,8 @@ QUOTES = (
     "Facebook'a bildirilen 417 içerikten 113'ü,"
     "Youtube'a bildirilen 297 içerikten 115'i çıkarılmadı."
     "Performans olarak en iyisi Facebook. (27 Şubat 2016)",
-    
+
     "Ulaşımda hız felaket, bilişimde hız berekettir.",
+    "Niye Çalıyorlar Kardeşim Gelsin İstesinler! : (http://goo.gl/19aGq2) "
 
 )
