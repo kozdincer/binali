@@ -110,5 +110,7 @@ QUOTES = (
     "Performans olarak en iyisi Facebook. (27 Şubat 2016)",
     
     "Ulaşımda hız felaket, bilişimde hız berekettir.",
+    
+    "Memleketin geleceği için bir Ali değil, Binali feda olsun."
 
 )
