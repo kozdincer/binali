@@ -11,6 +11,6 @@ parser.add_argument('--feda', action='store_const', const=29)
 args = parser.parse_args()
 
 if args.feda is not None:
-	print binaliQuotes[args.feda]
+	print(binaliQuotes[args.feda])
 else:
-	print random.choice(binaliQuotes)
+	print(random.choice(binaliQuotes))
