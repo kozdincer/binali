@@ -111,6 +111,8 @@ QUOTES = (
     
     "Ulaşımda hız felaket, bilişimde hız berekettir.",
     
-    "Memleketin geleceği için bir Ali değil, Binali feda olsun."
+    "Memleketin geleceği için bir Ali değil, Binali feda olsun.",
+    
+    "İstanbul'da seçimi kazandık."
 
 )
