@@ -113,6 +113,10 @@ QUOTES = (
     
     "Memleketin geleceği için bir Ali değil, Binali feda olsun.",
     
-    "İstanbul'da seçimi kazandık."
-
+    "İstanbul'da seçimi kazandık.",
+    
+    "Bir insan düşünün, baş var, uzuvları var. "
+    "Vatandaşa en yakın duran, vatandaşın her türlü sorunuyla derdiyle dertlenen birimler, "
+    "mahalli idareler, yerel yönetimlerdir. (8 Eylül 2016)"
+    
 )
