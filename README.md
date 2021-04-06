@@ -3,7 +3,18 @@ binali
 
 /bin/ali is a script which echo well-known quotes from binali.
 
+Forked from https://github.com/kozdincer/binali
+
 ![binaliworks](http://radorecdn.bobiler.org/upload/photographs/3269821689.jpg)
+
+Installation
+------------
+    $ pip3 install --user binali
+
+Usage
+-----
+    $ binali
+    $ binali --help
 
 Maintainers
 -----------
@@ -21,4 +32,4 @@ Contributers
 * Sefa Yıldız :: https://github.com/sayz
 * Mesutcan Kurt :: https://github.com/mesutcank
 * Onur Güzel :: https://github.com/onurguzel
-
+* Adil Gurbuz :: https://github.com/beucismis
