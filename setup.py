@@ -7,7 +7,7 @@ if os_name != "posix":
     raise OSError(f"Unsported OS: {os_name}")
 
 if version_info < (3, 5):
-    raise RuntimeError("pythonfetch requires Python 3.5 or later")
+    raise RuntimeError("binali requires Python 3.5 or later")
 
 with open("README.md") as f:
     long_description = f.read()
@@ -16,7 +16,7 @@ with open("README.md") as f:
 setup(
     name="binali",
     packages=["binali"],
-    version="1.0.0",
+    version="1.0",
     description="/bin/ali is a script which echo well-known quotes from binali.",
     long_description=long_description,
     long_description_content_type="text/markdown",
