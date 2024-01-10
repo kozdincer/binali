@@ -12,5 +12,6 @@ args = parser.parse_args()
 
 if args.feda is not None:
 	print(binaliQuotes[args.feda])
+	print("modif")
 else:
 	print(random.choice(binaliQuotes))
